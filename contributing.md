@@ -12,6 +12,7 @@ Ensure your pull request adheres to the following guidelines:
 - New sections are created as appropriate.
 - Sort section content alphabetically.
 - Do not repeat "Plover" if it's not necessary (e.g. "Plover Dict Commands" becomes simply "Dict Commands").
+- Tell us not just what the awesome thing is, but why it's awesome.
 
 Thank you for your suggestions!
 
