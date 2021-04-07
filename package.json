@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "lint": "awesome-lint ./readme.md"
+    },
+    "dependencies": {
+        "awesome-lint": "^0.17.1"
+    }
+}
