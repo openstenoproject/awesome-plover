@@ -25,6 +25,7 @@ Dictionaries and python dictionaries to make the Plover experience better.
 Plugins that control your system or Plover itself.
 
 - [Dict Commands](https://github.com/KoiOates/plover_dict_commands) - Enable, disable, and reorder dictionaries with steno strokes.
+- [VLC Commands](https://github.com/benoit-pierre/plover_vlc_commands) - Play, pause, seek, and adjust the rate of VLC media player with steno strokes. Paired with your favorite text editor, it makes an excellent transcription tool. It even has support for outputting the current timestamp.
 
 ### Dictionary Formats
 
