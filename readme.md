@@ -1,9 +1,11 @@
 # Awesome Plover [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint ignore no-double-link -->
 [<img src="https://raw.githubusercontent.com/openstenoproject/plover/master/plover/assets/plover-icon.svg" align="right" width="10%">](https://github.com/openstenoproject/plover)
 
 > A curated list of dictionaries and plugins for Plover, the open source stenography software.
 
+<!--lint ignore no-double-link -->
 [Plover](https://github.com/openstenoproject/plover) is a free, open source stenography engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
 
 ## Contents
@@ -35,6 +37,7 @@
 
 ### Text Macros
 
+<!--lint ignore no-repeat-punctuation -->
 - [Fancy Text](https://github.com/psethwick/plover_fancytext) - Switch between typing in all sorts of exotic modes. It's essential if you want to keep up with the kids, supporting everything from "ｖａｐｏｒｗａｖｅ" to "sARcASm" to "c,,ry ttypinng,".
 - [Repeat last translation](https://github.com/nsmarkop/plover_last_translation) - Repeat the last translation (word, shortcut, emoji, etc.) with a single stroke.
 
