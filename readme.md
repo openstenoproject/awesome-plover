@@ -18,6 +18,10 @@ Dictionaries and python dictionaries to make the Plover experience better.
 
 - [Di's Steno Dictionaries](https://github.com/didoesdigital/steno-dictionaries) - A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.
 
+### Programming
+
+- [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) - A genius python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
+
 ## Plugins
 
 ### Commands
@@ -26,6 +30,7 @@ Plugins that control your system or Plover itself.
 
 - [Dict Commands](https://github.com/KoiOates/plover_dict_commands) - Enable, disable, and reorder dictionaries with steno strokes.
 - [System Switcher](https://github.com/nsmarkop/plover_system_switcher) - Switch between different steno systems on the fly, critical for multilingual stenography.
+- [VLC Commands](https://github.com/benoit-pierre/plover_vlc_commands) - Play, pause, seek, and adjust the rate of VLC media player with steno strokes. Paired with your favorite text editor, it makes an excellent transcription tool. It even has support for outputting the current timestamp.
 
 ### Dictionary Formats
 
