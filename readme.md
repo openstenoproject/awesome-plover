@@ -25,6 +25,7 @@ Dictionaries and python dictionaries to make the Plover experience better.
 Plugins that control your system or Plover itself.
 
 - [Dict Commands](https://github.com/KoiOates/plover_dict_commands) - Enable, disable, and reorder dictionaries with steno strokes.
+- [System Switcher](https://github.com/nsmarkop/plover_system_switcher) - Switch between different steno systems on the fly, critical for multilingual stenography.
 
 ### Dictionary Formats
 
