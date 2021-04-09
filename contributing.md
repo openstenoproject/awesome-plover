@@ -6,16 +6,18 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+1. See the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) to learn what Awesome lists are all about.
+2. Everyone is welcome to review open pull requests and make suggestions!
+3. Ensure your pull request adheres to the following guidelines:
+    - As a general rule, try only to submit other people's content. **An awesome list is not a tool for self-promotion.**
+    - This is a curated list, not an exhaustive one. Please only suggest items that you would consider "awesome" and err on the side of including too little!
+    - New sections should be created as needed.
+    - Sort section content alphabetically, sort sections by generality (more general sections first, followed by more specific or niche use-cases.)
+    - Do not repeat "Plover" if it's not necessary (e.g. "Plover Dict Commands" becomes simply "Dict Commands").
+    - Tell us not just **what** the awesome thing is, but **why** it's awesome.
+    - Links should strictly follow the format that is used everywhere in the list: `- [Title](link.com) - Description in sentence case with a period at the end.`
 
-- As a general rule, try only to submit other people's content. **An awesome list is not a tool for self-promotion.**
-- New sections are created as appropriate.
-- Sort section content alphabetically.
-- Do not repeat "Plover" if it's not necessary (e.g. "Plover Dict Commands" becomes simply "Dict Commands").
-- Tell us not just what the awesome thing is, but why it's awesome.
-
-Thank you for your suggestions!
-
+Looking forward to your contributions to this list!
 
 ## Updating your PR
 
