@@ -21,7 +21,7 @@
 
 ### Phrasing
 
-- [JadeGG's Phrasing](https://github.com/Jade-GG/plover_phrasing) - A python dictionary phrasing system that lets you write entire phrases such as "we don't really want to" in one stroke.
+- [Jade-GG's Phrasing](https://github.com/Jade-GG/plover_phrasing) - A python dictionary phrasing system that lets you write entire phrases such as "we don't really want to" in one stroke.
 
 ### Programming
 
