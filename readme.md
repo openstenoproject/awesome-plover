@@ -6,7 +6,7 @@
 > A curated list of dictionaries and plugins for Plover, the open source stenography software.
 
 <!--lint ignore no-double-link -->
-[Plover](https://github.com/openstenoproject/plover) is a free, open source stenography engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
+[Plover](https://github.com/openstenoproject/plover) is a free, open source [stenography](https://en.wikipedia.org/wiki/Stenotype) engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
 
 ## Contents
 
