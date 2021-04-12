@@ -20,7 +20,8 @@
 - [Di's Steno Dictionaries](https://github.com/didoesdigital/steno-dictionaries) - A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.
 
 ### Phrasing
-- [JadeGG's Phrasing](https://github.com/Jade-GG/plover_phrasing) - A phrasing system that lets you write phrases such as "we don't really want to" all in one stroke. Utilises the python dictionary plugin.
+
+- [JadeGG's Phrasing](https://github.com/Jade-GG/plover_phrasing) - A python dictionary phrasing system that lets you write entire phrases such as "we don't really want to" in one stroke.
 
 ### Programming
 
