@@ -37,13 +37,13 @@
 
 ### Dictionary Formats
 
-- [Python Dictionary (.py)](https://pypi.org/project/plover-python-dictionary/) - Dictionaries that are small python scripts -- the possibilities are limitless! A few extremely useful Python dictionaries make this plugin a must-have.
+- [Python Dictionary (.py)](https://pypi.org/project/plover-python-dictionary/) - Dictionaries that are small python scripts—limitless possibilities! A few extremely useful Python dictionaries make this plugin a must-have.
 
 ### Text Macros
 
 <!--lint ignore no-repeat-punctuation -->
 - [Fancy Text](https://github.com/psethwick/plover_fancytext) - Switch between typing in all sorts of exotic modes. It's essential if you want to keep up with the kids, supporting everything from "ｖａｐｏｒｗａｖｅ" to "sARcASm" to "c,,ry ttypinng,".
-- [Repeat last translation](https://github.com/nsmarkop/plover_last_translation) - Repeat the last translation (word, shortcut, emoji, etc.) with a single stroke.
+- [Last Translation](https://github.com/nsmarkop/plover_last_translation) - Repeat the last translation (word, shortcut, emoji, etc.) with a single stroke.
 
 ### Tools and Widgets
 
