@@ -33,6 +33,7 @@
 ### Commands
 
 - [Dict Commands](https://github.com/KoiOates/plover_dict_commands) - Enable, disable, and reorder dictionaries with steno strokes.
+- [Open URL](https://github.com/nsmarkop/plover_open_url) - Open a website or file with a steno stroke, which can make Googling a spelling while transcribing much easier.
 - [System Switcher](https://github.com/nsmarkop/plover_system_switcher) - Switch between different steno systems on the fly, critical for multilingual stenography.
 - [VLC Commands](https://github.com/benoit-pierre/plover_vlc_commands) - Play, pause, seek, and adjust the rate of VLC media player with steno strokes. Paired with your favorite text editor, it makes an excellent transcription tool. It even has support for outputting the current timestamp.
 
