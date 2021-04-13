@@ -51,6 +51,12 @@
 - [Spectra Lexer](https://github.com/fourshade/spectra_lexer) - A beautiful tool that explains why words are stroked the way that they are in your dictionary.
 - [WPM Meter](https://github.com/arxanas/plover_wpm_meter) - See the words per minute and strokes per word of your writing for the last 10 and 60 seconds.
 
+### User Interface Replacements
+
+Plover ships with two user interface options: QT (default) and None.
+
+- [Console UI](https://github.com/psethwick/plover_console_ui) - Run Plover entirely within a terminal window, complete with text-based widgets for paper tape, suggestions, and adding translations.
+
 ## Contributing
 
 If you have a favorite Plover plugin or dictionary that isn't listed, it would be awesome if you added it. Please read the [contribution guidelines](contributing.md) first.
