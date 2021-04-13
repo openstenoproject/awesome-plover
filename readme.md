@@ -38,7 +38,8 @@
 
 ### Dictionary Formats
 
-- [Python Dictionary (.py)](https://pypi.org/project/plover-python-dictionary/) - Dictionaries that are small python scripts—limitless possibilities! A few extremely useful Python dictionaries make this plugin a must-have.
+- [Excel Dictionary `ods` `xlsx`](https://github.com/benoit-pierre/plover_excel_dictionary) - Store your strokes in a spreadsheet, with support for multiple sheets, extra columns, and even basic formulas. Perfect for organizing and annotating.
+- [Python Dictionary `py`](https://pypi.org/project/plover-python-dictionary/) - Dictionaries that are small python scripts—limitless possibilities! A few extremely useful Python dictionaries make this plugin a must-have.
 
 ### Text Macros
 
