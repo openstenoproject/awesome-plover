@@ -49,6 +49,7 @@
 ### Tools and Widgets
 
 - [Spectra Lexer](https://github.com/fourshade/spectra_lexer) - A beautiful tool that explains why words are stroked the way that they are in your dictionary.
+- [WPM Meter](https://github.com/arxanas/plover_wpm_meter) - See the words per minute and strokes per word of your writing for the last 10 and 60 seconds.
 
 ## Contributing
 
