@@ -26,8 +26,8 @@
 
 ### Programming
 
-- [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) - A genius python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
-- [Emily's Modifiers](https://github.com/EPLHREU/emily-modifiers) - Another python dictionary, this time allowing arbitrary keyboard shortcuts in one stroke.
+- [Emily's Modifiers](https://github.com/EPLHREU/emily-modifiers) - A genius python dictionary that allows arbitrary keyboard shortcuts in one stroke.
+- [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) - Another python dictionary, this time allowing  you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
 
 ## Plugins
 
@@ -49,9 +49,9 @@
 
 ### Tools and Widgets
 
+- [Clippy](https://github.com/tckmn/plover_clippy) - Creates a text file which stores all your inefficient strokes, saving you from watching the suggestions window all the time.
 - [Spectra Lexer](https://github.com/fourshade/spectra_lexer) - A beautiful tool that explains why words are stroked the way that they are in your dictionary.
 - [WPM Meter](https://github.com/arxanas/plover_wpm_meter) - See the words per minute and strokes per word of your writing for the last 10 and 60 seconds.
-- [Clippy](https://github.com/tckmn/plover_clippy) - Creates a text file which stores all your inefficient strokes, saving you from watching the suggestions window all the time.
 
 ### User Interface Replacements
 
