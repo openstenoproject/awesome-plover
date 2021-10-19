@@ -26,8 +26,8 @@
 
 ### Programming
 
-- [Emily's Modifiers](https://github.com/EPLHREU/emily-modifiers) - A genius python dictionary that allows arbitrary keyboard shortcuts in one stroke.
-- [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) - Another python dictionary, this time allowing you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
+- [Emily's Modifiers](https://github.com/EPLHREU/emily-modifiers) - A python dictionary to allow you to make any keyboard shortcut (with any number of modifiers) in one stroke.
+- [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) - A python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
 
 ## Plugins
 
